@@ -9,7 +9,7 @@ Aplikasi ini merupakan sistem pemesanan berbasis web yang dirancang untuk memban
 - Manajemen produk bouquet dan hampers
 - Sistem login dan registrasi
 - Halaman dashboard untuk admin dan pengguna
-- Fitur pemesanan dan pelacakan pesanan
+- Fitur pemesanan dan pembelian
 - Manajemen data pengguna dan kategori produk
 
 ## Penggunaan Aplikasi - Admin Toko *The EVGIFT*
